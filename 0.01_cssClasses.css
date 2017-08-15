@@ -1,0 +1,35 @@
+.customDiv {
+	margin: 20px;
+	font-size: 24px;
+	padding: 10px;
+	width: 50%;
+}
+
+.customDiv2 {
+	margin: 20px;
+	font-size: 24px;
+	padding: 10px;
+	width: 50%;
+	border-width: 10px;
+	border-style: double;
+}
+
+body {
+	background: #0000ff;
+}
+
+.challengeDiv {
+	background-color: lightgrey;
+}
+
+.ul1 {
+	color: green;
+}
+
+.p1 {
+	color: green;
+}
+
+.ul2 {
+	color: blue;
+}
